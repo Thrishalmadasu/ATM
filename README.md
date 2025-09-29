@@ -1,6 +1,6 @@
 # ATM System Design using State Design Pattern
 
-This project implements a comprehensive ATM (Automated Teller Machine) system using the State Design Pattern, following SOLID principles.
+This project implements a comprehensive ATM system using the State Design Pattern, following SOLID principles.
 
 ## Class Diagram
 
